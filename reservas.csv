@@ -1,0 +1,15 @@
+﻿codigo_reserva;estado;fecha_creacion;fecha_cancelacion;identificacion_cliente;nombre_cliente;pelicula;sala;inicio_funcion;butaca;tipo_entrada;precio_entrada;importe_total_reserva
+CIN-001;Confirmada;2026-11-18 13:16;;30111222;Lucía Pérez;Órbita;Sala 1;2026-11-19 18:00;A1;General;5000.00;10000.00
+CIN-001;Confirmada;2026-11-18 13:16;;30111222;Lucía Pérez;Órbita;Sala 1;2026-11-19 18:00;A2;General;5000.00;10000.00
+CIN-002;Confirmada;2026-11-18 13:16;;28456789;Martín Gómez;Órbita;Sala 1;2026-11-19 18:00;B3;General;5000.00;9000.00
+CIN-002;Confirmada;2026-11-18 13:16;;28456789;Martín Gómez;Órbita;Sala 1;2026-11-19 18:00;B4;Estudiante;4000.00;9000.00
+CIN-003;Cancelada;2026-11-18 13:16;2026-11-18 13:16;31222333;Ana López;Órbita;Sala 1;2026-11-19 21:00;C1;General;5000.00;5000.00
+CIN-004;Confirmada;2026-11-18 13:16;;30111222;Lucía Pérez;El último viaje;Sala 2;2026-11-19 19:00;A1;General;4500.00;8100.00
+CIN-004;Confirmada;2026-11-18 13:16;;30111222;Lucía Pérez;El último viaje;Sala 2;2026-11-19 19:00;A2;Estudiante;3600.00;8100.00
+CIN-005;Confirmada;2026-11-18 13:16;;28456789;Martín Gómez;Órbita;Sala 1;2026-11-20 18:00;B3;General;5000.00;5000.00
+CIN-006;Cancelada;2026-11-18 14:40;2026-11-18 14:40;23456;aaa;Órbita;Sala 1;2026-11-19 18:00;A3;General;5000.00;10000.00
+CIN-006;Cancelada;2026-11-18 14:40;2026-11-18 14:40;23456;aaa;Órbita;Sala 1;2026-11-19 18:00;A4;General;5000.00;10000.00
+CIN-007;Confirmada;2026-11-18 14:40;;234557;marti asi;Órbita;Sala 1;2026-11-19 18:00;A3;Estudiante;4000.00;19000.00
+CIN-007;Confirmada;2026-11-18 14:40;;234557;marti asi;Órbita;Sala 1;2026-11-19 18:00;A4;General;5000.00;19000.00
+CIN-007;Confirmada;2026-11-18 14:40;;234557;marti asi;Órbita;Sala 1;2026-11-19 18:00;B5;General;5000.00;19000.00
+CIN-007;Confirmada;2026-11-18 14:40;;234557;marti asi;Órbita;Sala 1;2026-11-19 18:00;B6;General;5000.00;19000.00
